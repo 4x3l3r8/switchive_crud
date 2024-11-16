@@ -4,9 +4,9 @@ This is a nextjs application that shows hotel rankings.
 
 ## Technologies used
 
-NextJS v15
-Material UI
-RTK and RTK Query
+- NextJS v15
+- Material UI
+- RTK and RTK Query
 
 ## How to use
 
