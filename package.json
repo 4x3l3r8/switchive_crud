@@ -1,0 +1,37 @@
+{
+  "name": "switchive_crud",
+  "version": "5.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "post-update": "echo \"codesandbox preview only, need an update\" && pnpm update --latest"
+  },
+  "dependencies": {
+    "@emotion/cache": "latest",
+    "@emotion/react": "latest",
+    "@emotion/styled": "latest",
+    "@mui/icons-material": "^6.1.7",
+    "@mui/material": "latest",
+    "@mui/material-nextjs": "latest",
+    "@reduxjs/toolkit": "^2.3.0",
+    "@tanstack/match-sorter-utils": "^8.19.4",
+    "@tanstack/react-table": "^8.20.5",
+    "next": "latest",
+    "react": "latest",
+    "react-dnd": "^16.0.1",
+    "react-dom": "latest",
+    "react-redux": "^9.1.2",
+    "use-debounce": "^10.0.4"
+  },
+  "devDependencies": {
+    "@types/node": "latest",
+    "@types/react": "latest",
+    "@types/react-dom": "latest",
+    "eslint": "latest",
+    "eslint-config-next": "latest",
+    "typescript": "latest"
+  }
+}
